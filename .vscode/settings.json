@@ -1,0 +1,10 @@
+{
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+"python.analysis.useImportHeuristic": true,
+"python.analysis.extraPaths": [
+    "./project/app/models"
+]
+}
